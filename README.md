@@ -1,6 +1,6 @@
 # Sample Project
-![ScreenShot1](https://drive.google.com/file/d/1GCfP4Z-6DQTygh7l7-s714xNppe3IBvf/preview)
-![ScreenShot2](https://drive.google.com/file/d/1NGY9wXbpTUO7lF3W1KHzw_DToZqSV6fO/preview)
+![ScreenShot](https://drive.google.com/file/d/1GCfP4Z-6DQTygh7l7-s714xNppe3IBvf/preview)
+![ScreenShot](https://drive.google.com/file/d/1NGY9wXbpTUO7lF3W1KHzw_DToZqSV6fO/preview)
 
 # Lumen PHP Framework
 
